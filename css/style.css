@@ -1,0 +1,31 @@
+.icons ul {
+  list-style-type: none;
+}
+
+.add-btn button {
+  width: 100px;
+  height: 40px;
+  color: white;
+  background-color: rgba(248, 80, 14, 0.836);
+  border: 0px;
+  -webkit-transition: 0.2s;
+  transition: 0.2s;
+  margin-top: -20px;
+}
+
+.add-btn button:hover {
+  background-color: rgba(196, 78, 32, 0.836);
+}
+
+.c-red {
+  color: rgba(248, 80, 14, 0.836);
+}
+
+.bg-dark-blue {
+  background-color: #202f46;
+}
+
+.container-with {
+  width: 100%;
+}
+/*# sourceMappingURL=style.css.map */
